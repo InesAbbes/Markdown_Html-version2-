@@ -1,0 +1,105 @@
+head,p {
+    text-align: center;
+    font-style: italic;
+    color: indigo;
+}
+h1{
+font-family: "Manjari Bold", sans-serif;
+text-align: center;
+border: 5px solid pink;
+border-radius: 5px;
+background-color: hsla(0, 100%, 70%, 0.3);
+margin: 20px 500px 20px;
+padding-left: 10px;
+padding-top: 10px;
+padding-bottom: 10px;
+color: papayawhip;
+font-size: 25px;
+}
+
+img {
+    border-radius: 50%;
+    margin-left: 500px;
+    margin-bottom: 30px;
+    padding: 10px;
+    border: 2px solid pink;
+    padding-bottom: 30px;
+    padding-top: 30px;
+    border-bottom-width: 5px;
+    border-top-width: 5px;
+    margin-top: 30px;
+}
+
+h2{
+    font-family: "Manjari Bold", sans-serif;
+    text-align: center;
+    border-radius: 5px;
+    background-color: hsla(0, 100%, 70%, 0.3);
+    padding-top: 10px;
+    border: 5px solid pink;
+    color:whitesmoke;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    font-size: 25px;
+    margin: -300px 850px 75px 50px;
+
+
+}table, th, td {
+     border: 5px solid pink;
+     font-family: Arial, Helvetica, sans-serif;
+     font-size: 20px;
+     background: hsla(0, 100%, 70%, 0.3);
+     padding: 10px;
+     margin: 0px 850px 75px 100px;
+    color: whitesmoke;
+ }
+
+h3 {
+    font-family: "Manjari Bold", sans-serif;
+    text-align: center;
+    border: 5px solid pink;
+    border-radius: 5px;
+    background-color: hsla(0, 100%, 70%, 0.3);
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: whitesmoke;
+    font-size: 25px;
+    margin: -450px 50px 75px 850px;
+}
+
+ul{font-family: "Manjari Bold", sans-serif;
+    text-align: center;
+    border: 5px solid pink;
+    border-radius: 5px;
+    background-color:hsla(0, 100%, 70%, 0.3);
+    padding-left: 10px;
+    padding-top: 20px;
+    padding-bottom: 0px;
+    color: whitesmoke;
+    font-size: 25px;
+    margin: 90px 50px 75px 850px;
+}
+body{
+    font-family: cursive;
+    margin: 0;
+    padding: 0;
+    background-image: url(back2.jpeg);
+    background-position: left top, right bottom, center;
+    background-size: 1500px, 2500px, cover;
+}
+h4{
+    font-family: "Manjari Bold", sans-serif;
+    text-align: center;
+    border: 5px solid pink;
+    border-radius: 5px;
+    background-color: hsla(0, 100%, 70%, 0.3);
+    color: whitesmoke;
+    margin: 25px 150px 25px 150px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+}
+
+
+
